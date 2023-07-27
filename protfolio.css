@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-brand {
+    font-family: "roboto";
+    font-size: 20px;
+}
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/white-concrete-textures_74190-6994.jpg?w=740&t=st=1689524070~exp=1689524670~hmac=09513c3a9d7f1f2b1a7075c9e7c4db203f2bd02ef04abe27f77b1041319d7db4");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.name {
+    font-family: "cursive;";
+    font-size: 20px;
+    color: #E3411A;
+    text-align: left;
+    margin-right: 10px;
+}
+
+.intro-name {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #000;
+    text-align: left;
+}
+
+.profile-image {
+    width: 140px;
+    height: 200px;
+    border-radius: 15px;
+    margin-left: 20px;
+    bottom: 10px;
+    margin-right: 10px;
+    border: 3px solid black;
+}
+
+.resume-button {
+    font-family: "roboto";
+    width: 180px;
+    margin-left: 10px;
+}
+
+.about-section {
+    font-family: "Cursive";
+    font-size: 16px;
+    text-align: left;
+}
+
+.heading-Edu {
+    font-size: 26px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+.details-edu {
+    font-size: 18px;
+    font-family: "roboto";
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.skills-heading {
+    font-family: "roboto";
+    font-size: 28px;
+    margin-top: 18px;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.imageskills {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    padding-left: 20px;
+}
+
+.certificates-heading {
+    font-family: "roboto";
+    font-size: 28px;
+    margin-top: 18px;
+    padding: 10px;
+}
+
+.contact-heading {
+    font-family: "roboto";
+    font-size: 26px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.icon {
+    height: 100%;
+}
+
+.years {
+    font-family: "roboto";
+    font-size: 26px;
+    color: black;
+}
+
+.ending-tag {
+    font-family: "Sans-Serif";
+    color: black;
+}
+
+.certificate-image {
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+
+
+
+}
